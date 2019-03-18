@@ -1,11 +1,16 @@
 _repo: Young-Crow-Raider_59069
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59069-h/images/cover.jpg
 creator:
   author:
     agent_name: Kroll, Francis Lynde
     gutenberg_agent_id: '50283'
     url: http://www.gutenberg.org/2009/agents/50283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59069#Young-Crow-Raider
 gutenberg_issued: '2019-03-15'
 gutenberg_type: Text
 identifiers:
